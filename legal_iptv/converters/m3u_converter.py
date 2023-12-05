@@ -1,4 +1,4 @@
-from models.channel import Channel
+from models.channel import Channel 
 from models.categories import get_categories_ordered
 
 def __group_by_categories(channels):
