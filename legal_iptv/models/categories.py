@@ -1,5 +1,5 @@
 def __get_element(values, key):
-    element = next(filter(lambda element: key in element, values), None) 
+    element = next(filter(lambda element: key in element, values), None)
 
     if element is not None:
         return element[key]
