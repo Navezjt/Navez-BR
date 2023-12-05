@@ -1,4 +1,4 @@
-from urllib.request import urlopen
+from urllib.request import urlopen 
 from functools import partial
 
 import json
