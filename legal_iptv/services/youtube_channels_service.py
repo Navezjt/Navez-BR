@@ -23,5 +23,5 @@ def __channels(channels_data):
     return [channel for channel in channels if channel is not None]
 
 def fetch_channels():
-    url = 'https://raw.githubusercontent.com/gambiarras/youtube-live-channels/main/channels.json'
+    url = 'https://raw.githubusercontent.com/Navezjt/Navez-BRY/main/channels.json'
     return __channels(__request(url))
