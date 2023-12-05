@@ -1,4 +1,4 @@
-from models.channel import Channel 
+from models.channel import Channel
 
 def __group_by_id(channels):
     grouped = {}
