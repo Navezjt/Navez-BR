@@ -793,11 +793,11 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="SBTNacional.br" tvg-name="SBT Central Live" tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png", SBT Central Live
 #EXTGRP:Variedades
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702696042/ei/CsB8ZbrlIqGz0_wP_5SXuAc/ip/20.109.38.146/id/v0us40h9QyU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8_2-BqmRbIIU7gxOdNTJMX2UwGix3k-4oUcqw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472444/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWIG0PCuu6nrm8ifjiDo-6sTDnjB_z4HUCOr3oVPJYJQCIAY5iqDGnJC4S04SdkP6PnDyRU7SeQw7v0NGX1_kPP5d/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702717732/ei/xBR9ZbWfL9mRlu8PupaxyAY/ip/172.183.50.144/id/v0us40h9QyU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8r2kjJ-459xBYfZEH34GNWZjAzBmz6eFj9RrA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM0eIiUQWr8saV4dKB0T8lhR7KCLv-a1fET2r-udd25bAiEAhzHCe1qAWczyEsniKrlsaQRTqm9N6L_L3LkicyC9ojg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Variedades" tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-gazeta_m.png", TV Gazeta
 #EXTGRP:Variedades
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9uZCBqqP5CuQsx7NkYOMLpXXapxGSfcs1WxSsBaP8s2)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9uZCBqqP5CuQsx7NkYOMLpXXapxGSfcs1WxSsBaP8s2)/dm/3/x89qors/s/live-4.m3u8#cell=lnyc
 
 ### Canais Filmes
 
@@ -925,7 +925,7 @@ https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 
 #EXTINF:-1 group-title="Séries" tvg-id="PowerRangersTV.br" tvg-name="PowerRangers TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp", PowerRangers TV
 #EXTGRP:Séries
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702696044/ei/DMB8ZZXKI6ady_sPrNWv4A0/ip/20.109.38.146/id/Ivrdw3JtFFw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5PkiWmTdMHvgD6lw5zr54T-sU1jqmM8OuOXHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472444/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQzVMmveCM8anUMaYjVckCeNapKA_hF8LzNAlY9Lkt50CIQCDExzdSWotsa-6sHOuG33kc0pGPgQwKhEnLZiIgcsfQg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702717734/ei/xhR9ZYrQNPnCir4PpLqpIA/ip/172.183.50.144/id/bto2sFlEzGk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7wyUAfKye6SQyBy7mh4aibvL3Hu7V4swwxQCA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgJKJ03yZRISU0qHtfg7gRN3Nsm1puOSn7xtqcWle8b2QCIQCsVaQqgCafcLHTaS24v911yKhooDBpr6wY9D1pMVogEg%3D%3D/file/index.m3u8
 
 ### Canais Infantil
 
@@ -967,7 +967,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b
 
 #EXTINF:-1 group-title="Infantil" tvg-id="BabyBus.br" tvg-name="Baby Bus" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-z-KRyClup--esKMFo5aOruxVnrOBACXid_otlnw=s176-c-k-c0x00ffffff-no-rj", Baby Bus
 #EXTGRP:Infantil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702696045/ei/DcB8Zb2CC-eS_9EPk9SQ6AE/ip/20.109.38.146/id/CDYlzOrOLvU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxj0VSIuUXeDSteEEnIZ6MWlNmfW4sesGjJNOw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472444/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeZLoAuIaMl_Fz_bP5B-5FvdugcvWNupSU50TY7JGuhsCIDPWd19BcaaV00YseRirY1uHJlOSD6E-j_WmAfKf1g96/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702717735/ei/xxR9ZdmIGPaY2_gPw8wz/ip/172.183.50.144/id/CDYlzOrOLvU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f64kETsck_jEWXSIJTKkTS35FzByXEDeR3RWYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSfs2lti8LBDD0vlXHwHwrAWanKTw2NgA6vEm-g_wh4gCIQCyn-bOWSEe9oQBIYVh_-oKKcmWqaH_uWRPnt8OnGE1pQ%3D%3D/file/index.m3u8
 
 ### Canais Animação
 
@@ -1133,11 +1133,11 @@ https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 
 #EXTINF:-1 group-title="Notícia" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png", Jovem Pan Live
 #EXTGRP:Notícia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702696043/ei/C8B8ZY7JGrCB_9EP7OGSyAE/ip/20.109.38.146/id/brZzwzbQG_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-JyvooeF8Z3GWoKNlmGub9AKw9ZBSw1CwQZPA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472444/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALga6csLgtTL5XL77lIaR6BZl__0vtHNKy2gfhZ207ijAiEAuZSIo4XmTcgrtVXXLiwD_Go3E70GLUSVmb4enXpvLIE%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702717733/ei/xRR9Zf-EK4OY2_gPwvm0sAM/ip/172.183.50.144/id/AotjmGqoInI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4Ht_Cc7aJijHEnLjh3Pm5qCqjgM_IAkNLfusw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgH0g_ESzaHlAq9fFBBeb-SbWIloV4iAXDWPfBM_QztcACICl7coIlnwZXfrbwF2bUpne3cs39iej1Z9jq6dolsvKz/file/index.m3u8
 
 #EXTINF:-1 group-title="Notícia" tvg-id="RecordNews.br" tvg-name="Record News Live" tvg-logo="https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj", Record News Live
 #EXTGRP:Notícia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702696044/ei/DMB8ZaOaAsWj_9EPnYybwAc/ip/20.109.38.146/id/7LXg0I8uHF0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxOToa-fYGERI18z656mEJm7w0YZFu0gbZObbQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472444/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO1zFZFtXtyFBCcxCXe0z5zBUhavl1aD6UmqKqCKza6sAiEA-LCbcBx5yoCTI9_a37IOtw5wsTgwip_f0j_7WehqJO8%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702717734/ei/xhR9Zd70FPfglu8Ps7uK-Ak/ip/172.183.50.144/id/7LXg0I8uHF0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9DOp59zzG5mffEEPdtyiJFMEN3atfU8bsb2Tg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJlw2qdoQCj8OUjPaDySO8qCpL7Aj2_fLfyivCt8ARPGAiASOAk5CDUi0Jd1XJtY6nNbMpSa-Jtza6toLwOG7xGiJA%3D%3D/file/index.m3u8
 
 ### Canais Cultura
 
