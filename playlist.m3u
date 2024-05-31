@@ -791,6 +791,10 @@ https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 #EXTGRP:Variedades
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades" tvg-id="SBTNacional.br" tvg-name="SBT Central Live" tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png", SBT Central Live
+#EXTGRP:Variedades
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717124963/ei/A-tYZoWTHp6AkucPs-q0GA/ip/20.55.14.167/id/RZgxuQ0e5zc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8tGyG-BRT3EVcKaE1-s3Plt0VU15-JxEjMT8uQGvcJuf9WE0zCWTC6wvSY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgTHlsJyLPXrtY7u_PkpB7tjjz65SAZx8WF61ZqI8f32oCICBokuVtjhHbEzIv69hp1ziMsDqdDX8LMTezHqz03y_h/file/index.m3u8
+
 ### Canais Filmes
 
 #EXTINF:-1 group-title="Filmes" tvg-id="CindieLite" tvg-name="Cindie Lite" tvg-logo="https://imgur.com/RaSZCuy.png", Cindie Lite
@@ -915,6 +919,10 @@ https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
 #EXTGRP:Séries
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
 
+#EXTINF:-1 group-title="Séries" tvg-id="PowerRangersTV.br" tvg-name="PowerRangers TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp", PowerRangers TV
+#EXTGRP:Séries
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717124966/ei/ButYZubnCOOGy_sPq8eDkAk/ip/20.55.14.167/id/nCTs9wNOa3U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-dpy4QU2iBnCFHKcJU8-b3h30k9h2lVdI7bd1Z46ltlMCn1JuAuzx0U6_I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALoPJLM6oxFhJ7Bdj3ddkfOJWgmgE72RG-YMLO4KOh_4AiBq_Pz2Y-_3Rd9WKpJa5bdhwARRgOEaa0iRM5Y7V3ri2g%3D%3D/file/index.m3u8
+
 ### Canais Infantil
 
 #EXTINF:-1 group-title="Infantil" tvg-id="Jetsons.br" tvg-name="Os Jetsons" tvg-logo="https://i.imgur.com/sqUlcaY.png", Os Jetsons
@@ -952,6 +960,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009
 #EXTINF:-1 group-title="Infantil" tvg-id="NickJrClub.br" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/GCenuyl.png", Nick Jr. Club
 #EXTGRP:Infantil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Infantil" tvg-id="BabyBus.br" tvg-name="Baby Bus" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-z-KRyClup--esKMFo5aOruxVnrOBACXid_otlnw=s176-c-k-c0x00ffffff-no-rj", Baby Bus
+#EXTGRP:Infantil
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717124966/ei/ButYZvvmNf6KkucPp8KCgAc/ip/20.55.14.167/id/A_F7YUI_OMg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5caBO0upYTn1A1renuW9ULy7huNr0YyiHfGWZMKklrgzV0tXBTup0xlGt0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALCAAHbyBLYYGKw5MbL3MWUbB29j57i8WeSESKlqZ1IPAiEAj5x8fPiubeTShVrP1oLSjvCggICkhn0QT2y0JNSWJHo%3D/file/index.m3u8
 
 ### Canais Animação
 
@@ -1118,6 +1130,14 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="Notícia" tvg-id="TVSimSaoMateus.br" tvg-name="TV Sim Sao Mateus" tvg-logo="https://i.imgur.com/t5oUK3C.png", TV Sim Sao Mateus
 #EXTGRP:Notícia
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 group-title="Notícia" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png", Jovem Pan Live
+#EXTGRP:Notícia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717124964/ei/BOtYZuPaJ52KkucP1O2QkAY/ip/20.55.14.167/id/KrBrgiHVMIw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f9zBxVmjJSWY9tXwOmtWyNYQIRZQYVlh7jC8dDMmQ4Et_2aU4cs4a1bVogI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK-_mwn25qQHx-FPICT_ic3VYte5aondnwSH6nQZU-NSAiBUkdf4dO-Myg6CucQZfzjzhcGFKszgYX2eEwvJg_V6kQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Notícia" tvg-id="RecordNews.br" tvg-name="Record News Live" tvg-logo="https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj", Record News Live
+#EXTGRP:Notícia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717124965/ei/BetYZtKjF_S1kucP1IKsGA/ip/20.55.14.167/id/Jh2oEVvGoCU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f71SMBY8TPGYDIc1tyMo-oGSXhF_KT99napRjrmZ_rnWLAT-wehwmt_OzDM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMdtvU1HFQtP_xVKXaKDN2C8UiayZta1BKSo8EmGa3HsCIQC9YZgc1FR_parj9Rxueb-Zqqq28Lw_aifdR86o1rtyyQ%3D%3D/file/index.m3u8
 
 ### Canais Cultura
 
