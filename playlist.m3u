@@ -159,10 +159,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTGRP:Variedades
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png", ISTV
-#EXTGRP:Variedades
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="LavrasCETV.br" tvg-name="Lavras CE TV" tvg-logo="https://i.imgur.com/y0LSin2.png", Lavras CE TV
 #EXTGRP:Variedades
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
@@ -1338,6 +1334,10 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Educação" tvg-id="CanalSaude.br" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png", Canal Saude
 #EXTGRP:Educação
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Educação" tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="https://i.imgur.com/RUKVrOH.png", ISTV
+#EXTGRP:Educação
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 group-title="Educação" tvg-id="PlutoTVMisterios.br" tvg-name="Pluto TV Misterios" tvg-logo="https://i.imgur.com/gwxX1Y3.png", Pluto TV Misterios
 #EXTGRP:Educação
