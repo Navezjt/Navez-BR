@@ -987,10 +987,6 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTGRP:Notícia
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 group-title="Notícia" tvg-id="JovemPanNews.br" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png", Jovem Pan News
-#EXTGRP:Notícia
-https://amg01391-addigital-jovempan-klowdtv-cpe4b.amagi.tv/playlist/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
-
 #EXTINF:-1 group-title="Notícia" tvg-id="PlenaTV.br" tvg-name="Plena TV" tvg-logo="https://i.imgur.com/lH4RT7b.png", Plena TV
 #EXTGRP:Notícia
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
