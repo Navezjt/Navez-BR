@@ -163,10 +163,6 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTGRP:Variedades
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="Loading.br" tvg-name="Loading" tvg-logo="https://i.imgur.com/R0aflu1.png", Loading
-#EXTGRP:Variedades
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="MKKWebTV.br" tvg-name="MKK Web TV" tvg-logo="https://i.imgur.com/A8Yhtid.png", MKK Web TV
 #EXTGRP:Variedades
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
@@ -1116,6 +1112,10 @@ https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimento" tvg-id="ElyTV.br" tvg-name="ElyTV" tvg-logo="https://i.imgur.com/1eHNe91.png", ElyTV
 #EXTGRP:Entretenimento
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento" tvg-id="Loading.br" tvg-name="Loading" tvg-logo="https://i.imgur.com/R0aflu1.png", Loading
+#EXTGRP:Entretenimento
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Entretenimento" tvg-id="MTV.br" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png", MTV
 #EXTGRP:Entretenimento
